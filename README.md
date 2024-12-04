@@ -1,7 +1,7 @@
 # Bank-Loan-Analysis-using-PowerBi
 This project presents an interactive Bank Loan Analysis Dashboard created using Power BI, designed to analyze and visualize critical insights from a bank's loan dataset. The dashboard provides a comprehensive overview of loan applications, approval trends, and financial metrics, enabling data-driven decision-making.
 
-Features
+Features:
 1. Summary Dashboard:
 Displays key metrics such as:
 Total Applications: 39K
